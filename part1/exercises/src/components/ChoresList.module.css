@@ -1,7 +1,10 @@
 .choresText {
-   color: black;
+   color: orangered;
+   font-family: cursive ;
+   text-decoration: underline;
 }
 
 .choresHeading {
-   color: black;
+   color: orange;
+   font-family: cursive;
 }
